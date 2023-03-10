@@ -1,0 +1,25 @@
+{
+  "short_name": "heinsoe",
+  "name": "Hein Soe",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "heinsoe192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "heinsoe512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#394249",
+  "background_color": "#394249"
+}
